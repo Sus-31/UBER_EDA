@@ -26,7 +26,7 @@ The analysis seeks to uncover trends in Uber pickup data, including peak days an
    - **High Demand Areas:** Manhattan, especially southern and central regions.
    - **Other Regions:** Significant activity in Brooklyn and New Jersey, with less in suburban areas.
 
-![Data Analysis](image_placeholder)
+![Data Analysis](https://github.com/Sus-31/UBER_EDA/blob/main/Allplots.png)
 
 ## Recommendations
 
@@ -37,4 +37,4 @@ The analysis seeks to uncover trends in Uber pickup data, including peak days an
 ## Conclusion
 
 The analysis highlights key trends and areas for improvement in Uber's operations in NYC. By leveraging these insights, Uber can enhance service efficiency, customer satisfaction, and profitability. 
-For a detailed analysis, please refer to the [full report](path_to_report)
+For a detailed analysis, please refer to the [full report](https://github.com/Sus-31/UBER_EDA/blob/main/UberAnalysisReport.docx)
